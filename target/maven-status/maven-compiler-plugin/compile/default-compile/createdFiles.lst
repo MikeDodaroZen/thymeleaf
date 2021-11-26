@@ -1,0 +1,3 @@
+com\example\thymeleaf\WebSecurityConfig.class
+com\example\thymeleaf\ThymeleafApplication.class
+com\example\thymeleaf\MvcConfig.class
